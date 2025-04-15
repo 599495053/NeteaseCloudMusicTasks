@@ -16,7 +16,7 @@
 9. 支持多账号
 10. 支持[腾讯云函数](#一部署到腾讯云函数) & [青龙面板](#二部署到青龙面板) & [本地运行](#三本地运行) & [docker 部署](#四使用docker部署)
 
-> 开发不易，如果你觉得本项目对你有用，可以点个 star，也可以到底部给个[赞赏](#赞赏)
+
 
 ## 注意事项
 
@@ -659,9 +659,6 @@ docker run -itd --restart=on-failure \
 
 ### 赞赏
 
-<p align="left">微信</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/chen310/NeteaseCloudMusicTasks/public/img/wechatpay.png" />
-
-<p align="left">支付宝</p> <img width="300" height="300" src="https://cdn.jsdelivr.net/gh/chen310/NeteaseCloudMusicTasks/public/img/alipay.png" />
 
 ### star 数
 
